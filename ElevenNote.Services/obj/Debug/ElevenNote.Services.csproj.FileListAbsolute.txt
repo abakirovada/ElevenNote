@@ -14,3 +14,9 @@ C:\ElevenFiftyProjects\ElevenNoteWebAPI\ElevenNote.WebAPI\ElevenNote.Services\ob
 C:\ElevenFiftyProjects\ElevenNoteWebAPI\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\ElevenFiftyProjects\ElevenNoteWebAPI\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\ElevenFiftyProjects\ElevenNoteWebAPI\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\ElevenFiftyProjects\ElevenNoteWebAPI\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\ElevenFiftyProjects\ElevenNoteWebAPI\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\ElevenFiftyProjects\ElevenNoteWebAPI\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\ElevenFiftyProjects\ElevenNoteWebAPI\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\ElevenFiftyProjects\ElevenNoteWebAPI\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\ElevenFiftyProjects\ElevenNoteWebAPI\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
